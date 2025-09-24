@@ -1,16 +1,25 @@
-# fluttertodo
+📋 Daily Task Manager (Flutter App)
 
-A new Flutter project.
+A modern, mobile-first task management app built with Flutter.
+Track your daily tasks, mark them as complete, and manage priorities with a simple, responsive UI.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+✅ Add, edit, and delete tasks
 
-A few resources to get you started if this is your first Flutter project:
+✅ Mark tasks as complete/incomplete
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Organize tasks by priority or date
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Persistent storage using Hive / SQLite / Firebase
+
+✅ Clean, responsive, and intuitive UI
+
+✅ Ready for mobile deployment (Android/iOS)
+
+🚀 Tech Stack
+Frontend	Backend / Storage
+Flutter 3+	Firebase / Hive / SQLite
+Dart	Local Storage / Cloud Sync
+Provider / Riverpod	State Management
+Material Design	UI Components
